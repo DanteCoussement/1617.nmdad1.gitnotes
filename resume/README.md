@@ -2,8 +2,8 @@
 _______
 ##Dante Coussement
 __________________
-file:///C:\\Gebruikers\\User\\code\\1617.nmdad1.gitnotes\\Dante.jpg
-    
+![Pasfoto](C:\\Gebruikers\\user\\cod\\1617.nmdad1.gitnotes\\resume\\Dante)
+
 ###Personalia
 _____________
 * __Naam:__ Dante Coussement <br>

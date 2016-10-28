@@ -2,7 +2,7 @@
 _______
 ##Dante Coussement
 __________________
-![Pasfoto](C:\\Gebruikers\\User\\code\\1617.nmdad1.gitnotes\\Dante.jpg)
+file:///C:\\Gebruikers\\User\\code\\1617.nmdad1.gitnotes\\Dante.jpg
     
 ###Personalia
 _____________

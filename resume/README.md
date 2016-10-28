@@ -13,7 +13,7 @@ _____________
 * __Nationaliteit:__ Belg <br>
 * __Burgerlijke staat:__ Ongehuwd <br>
 * __Telefoonnummer:__ 0498/657024 <br>
-* __E-mailadres:__ <http://daringfireball.net/projects/markdown/syntax><dantcous@student.arteveldehs.be>
+* __E-mailadres:__ <dantcous@student.arteveldehs.be>
             
 ###Opleiding(en)
 ________________
